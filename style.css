@@ -5,3 +5,32 @@ h2 {
 p {
   color: red;
 }
+/* Commentaire */
+Selecteur {
+  propriete1: valeur;
+  propriete2: valeur;
+}
+/* Style pour les titres de niveau 1 */
+h1 {
+  font-family: Arial;
+  color: blue;
+}
+/* enlever le soulignement des liens (prévoir une alternative) */
+a {
+  text-decoration: none;
+}
+/* les <p> seront en bleu */
+p {
+  color: red;
+}
+p {
+  color: blue;
+}
+/* tous les éléments contenus dans html auront la police Arial */
+html {
+  font-family: Arial;
+}
+/* tous les éléments h2 auront la police Helvetica */
+h2 {
+  font-family: Courrier;
+}
